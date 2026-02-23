@@ -1,4 +1,4 @@
-This is our project 
+This is our project for LLM Course @Master IASD 2025
 ## Introduction
 Modern language models have grown enormously, often reaching hundreds of billions of pa
 rameters. While full fine-tuning can adapt these models to specific tasks, it quickly becomes
